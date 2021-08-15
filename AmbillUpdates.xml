@@ -1,0 +1,24 @@
+#!xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+xmlns:sparkleDotNET="http://bitbucket.org/ikenndac/sparkledotnet">
+    <channel> 
+        <title>ambill</title> 
+        <language>en</language> 
+        <item> 
+            <title>ambill</title> 
+            <sparkle:releaseNotesLink>https://github.com/mcankalx/ambill_release/blob/master/New%20Template.html</sparkle:releaseNotesLink>
+            <pubDate>Sun, 15 Aug 2021 12:00:00 +0000</pubDate> 
+            <enclosure sparkle:version="154.0.13" 
+			sparkle:shortVersionString="154.0.13" 
+			sparkleDotNET:executableType="InstallShieldSetup"
+			sparkleDotNET:primaryInstallationFile="ambill_21_22.exe"
+			sparkle:dsaSignature="W8Sm6WqmKvEil+Iho5ad3/dVodVxqyh/z4/67sUWqkSfan/IamMPYQ=="
+			url="https://github.com/mcankalx/ambill_release/blob/master/ambill_21_22.exe"
+			type="application/octet-stream"
+			length="5288007"/> 
+        </item> 
+    </channel> 
+</rss>
