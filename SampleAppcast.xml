@@ -14,7 +14,7 @@
 			sparkle:dsaSignature="cIEE0U7BsR3MLDetLA5Xqm93l4SeYBPpA15AE/IRzk8JI/ORe4zS+Q=="
 			sparkleDotNET:executableType="InstallShieldSetup"
 			sparkleDotNET:primaryInstallationFile="setup.exe"
-			url="https://mcankalx.github.io/ambill_release/SampleAppcast.xml"
+			url="https://mcankalx.github.io/ambill_release/NetSparkTestApp.zip"
 			type="application/octet-stream"
 			length="139369"/> 
         </item> 
